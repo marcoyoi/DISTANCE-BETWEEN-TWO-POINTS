@@ -4,12 +4,16 @@
 To write a python program to find the distance two 2 points
 ## ALGORITHM:
 ### Step 1: 
+Import the math function
 ### Step 2: 
+Make two lists which consist of two variables and initialize them
 ### Step 3: 
 Substitute the values in the distance formula
 ![Formula](formula.JPG) 
-### Step 4: 
-### Step 5: 
+### Step 4:
+We do this by using the sqrt function 
+### Step 5:
+Print the value 
 ## PROGRAM:
 ```py
 #Program to find the distance between two points.
