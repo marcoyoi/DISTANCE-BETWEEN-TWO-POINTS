@@ -10,6 +10,7 @@ Make two lists which consist of two variables and initialize them
 ### Step 3: 
 Substitute the values in the distance formula
 ![Formula](formula.JPG) 
+
 ### Step 4:
 We do this by using the sqrt function 
 ### Step 5:
